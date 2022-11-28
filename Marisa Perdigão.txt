@@ -1,0 +1,4 @@
+Olá turma 22094.
+Primeiro commit
+
+Hello! I AM HERE... to commit.
